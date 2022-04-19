@@ -1,4 +1,4 @@
-# Progressive Web Applications (PWA): text-editor 1
+# Progressive Web Applications (PWA): text-editor 12
 
 ## Project Description
 
