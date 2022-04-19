@@ -1,4 +1,4 @@
-# Progressive Web Applications (PWA): text-editor 2022
+# Progressive Web Applications (PWA): text-editor 202
 
 ## Project Description
 
